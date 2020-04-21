@@ -4,7 +4,7 @@ class Begaiym extends Component {
   render() {
     return (
       <div>
-        <h2>первый раз отправила</h2>
+        <h2>второй раз отправила</h2>
       </div>
     );
   }
