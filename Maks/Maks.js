@@ -5,6 +5,7 @@ class Maks extends Component {
     return (
       <div>
         Max
+        <ul>srgtbrtb</ul>
       </div>
     );
   }
