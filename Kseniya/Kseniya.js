@@ -5,6 +5,7 @@ class Kseniya extends Component {
     return (
       <div>
         <h2>Hello everybody :)</h2>
+        <h3>I love Git</h3>
       </div>
     );
   }
