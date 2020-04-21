@@ -4,7 +4,7 @@ class Maks extends Component {
   render() {
     return (
       <div>
-        
+        Max
       </div>
     );
   }
