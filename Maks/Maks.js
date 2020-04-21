@@ -4,9 +4,11 @@ class Maks extends Component {
   render() {
     return (
       <div>
-        <ul>S O A B</ul>
-        <li>Hello world</li>
-        <li>What F A Y D</li>
+        <ul>
+          <li>Hello world</li>
+          <li>What F A Y D</li>
+          <li>S O A B</li>
+        </ul>
       </div>
     );
   }
