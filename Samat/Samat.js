@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
+import './samat.css';
 
 class Samat extends Component {
   render() {
     return (
-      <div>
+      <div className="samat">
         <h1>Hello World</h1>
+        
       </div>
     );
   }
