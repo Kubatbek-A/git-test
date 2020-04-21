@@ -4,7 +4,12 @@ class Begaiym extends Component {
   render() {
     return (
       <div>
-        <h2>второй раз отправила</h2>
+        <h2>второй раз отправила
+          fdgdfhdfhdghf
+          dfhdfhdfhdfh
+          dfhdhdhdhd
+          dfhdfhdhdfhdf
+        </h2>
       </div>
     );
   }
