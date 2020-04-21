@@ -5,5 +5,5 @@
 4) Send pull request to merge
 5) Close your issue
 6) Add me to reviewers
-7) Merge your your changes
+7) Merge your changes
 8) Pull changes to your local master
