@@ -4,7 +4,7 @@ class Eldiyar extends Component {
   render() {
     return (
       <div>
-        
+        Hello WORLD!
       </div>
     );
   }
