@@ -4,8 +4,9 @@ class Maks extends Component {
   render() {
     return (
       <div>
-        Max
-        <ul>srgtbrtb</ul>
+        <ul>S O A B</ul>
+        <li>Hello world</li>
+        <li>What F A Y D</li>
       </div>
     );
   }
