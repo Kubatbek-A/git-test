@@ -6,6 +6,7 @@ class Maks extends Component {
       <div>
         Max
         <ul>srgtbrtb</ul>
+        <li>;l,l;jnmj</li>
       </div>
     );
   }
