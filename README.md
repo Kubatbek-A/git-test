@@ -1,4 +1,5 @@
-# You need to clone this repository
+# Practise with GIT
+You need to clone this repository
 Create your branch
 Change some details in your component
 Send pull request to merge
