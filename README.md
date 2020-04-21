@@ -1,9 +1,9 @@
 # Practise with GIT
-You need to clone this repository
-Create your branch
-Change some details in your component
-Send pull request to merge
-Close your issue
-Add me to reviewers
-Merge your your changes
-Pull changes to your local master
+1) You need to clone this repository
+2) Create your branch
+3) Change some details in your component
+4) Send pull request to merge
+5) Close your issue
+6) Add me to reviewers
+7) Merge your your changes
+8) Pull changes to your local master
