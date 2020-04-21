@@ -4,7 +4,7 @@ class Adilet extends Component {
   render() {
     return (
       <div>
-        
+       <h1>testFile</h1>
       </div>
     );
   }
