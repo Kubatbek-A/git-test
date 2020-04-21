@@ -8,6 +8,8 @@ class Maks extends Component {
           <li>Hello world</li>
           <li>What F A Y D</li>
           <li>S O A B</li>
+          <li>THE END</li>
+          
         </ul>
       </div>
     );
